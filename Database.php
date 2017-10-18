@@ -18,7 +18,7 @@
             }
 
             function Printandmed() {
-                echo $this->nimi . "__" . $this->vanus . "\n";
+                echo $this->nimi . ":" . $this->vanus . "\n";
             }
 
             function Getname() {
